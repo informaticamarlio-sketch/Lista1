@@ -200,3 +200,19 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vP0p8yL.png", TV Sur (Región Sur)
 https://593683f12652b.streamlock.net:4443/tvsur/tvsur/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Caracol HD" tvg-logo="http://172.19.0.1/static/tv/logos/4913.png" group-title="HD",Caracol HD 
+http://172.19.0.1/4913/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="2" tvg-name="RCN HD" tvg-logo="http://172.19.0.1/static/tv/logos/4949.png" group-title="HD",RCN HD 
+http://172.19.0.1/4949/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="3" tvg-name="Canal 1 HD" tvg-logo="http://172.19.0.1/static/tv/logos/10700.png" group-title="HD",Canal 1 HD 
+http://172.19.0.1/10700/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="5" tvg-name="Señal Colombia HD" tvg-logo="http://172.19.0.1/static/tv/logos/7406.png" group-title="HD",Señal Colombia HD 
+http://172.19.0.1/7406/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="10" tvg-name="Canal Institucional HD" tvg-logo="http://172.19.0.1/static/tv/logos/7408.png" group-title="HD",Canal Institucional HD 
+http://172.19.0.1/7408/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="11" tvg-name="Canal Congreso HD" tvg-logo="http://172.19.0.1/static/tv/logos/7395.png" group-title="HD",Canal Congreso HD 
+http://172.19.0.1/7395/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="20" tvg-name="Caracol HD2" tvg-logo="http://172.19.0.1/static/tv/logos/8775.png" group-title="HD",Caracol HD2 
+http://172.19.0.1/8775/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
+#EXTINF:-1 tvg-id="21" tvg-name="RCN HD2" tvg-logo="http://172.19.0.1/static/tv/logos/8801.png" group-title="HD",RCN HD2 
+http://172.19.0.1/8801/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece

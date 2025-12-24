@@ -1,16 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4n7Z7.png", Caracol TV (Señal 1)
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://i.imgur.com/8N4n7Z7.png", Caracol TV
+https://iptv-org.github.io/iptv/channels/CaracolTV.co.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4n7Z7.png", Noticias Caracol Ahora
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="RCNTV.co" tvg-logo="https://i.imgur.com/fGv7R0F.png", RCN TV
+https://iptv-org.github.io/iptv/channels/RCNTV.co.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fGv7R0F.png", RCN Televisión
-https://bit.ly/3yLhOqO
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://i.imgur.com/lO8uT7G.png", Canal 1
+https://iptv-org.github.io/iptv/channels/Canal1.co.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lO8uT7G.png", Canal Uno
-https://canal1.stream.mediasector.com/hls/canal1.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/P0N7H0k.png", Señal Colombia
+https://iptv-org.github.io/iptv/channels/SenalColombia.co.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0N7H0k.png", Señal Colombia
-https://rtvc-live-v6.m9.digital/btv/senal-colombia/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTV.co" tvg-logo="https://i.imgur.com/L9I1JzQ.png", CityTV
+https://iptv-org.github.io/iptv/channels/CityTV.co.m3u8
+
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-logo="https://i.imgur.com/8N4n7Z7.png", Noticias Caracol
+https://iptv-org.github.io/iptv/channels/NoticiasCaracol.co.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/vHq7F9L.png", Teleantioquia
+https://iptv-org.github.io/iptv/channels/Teleantioquia.co.m3u8
+
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/8Qp2o9Y.png", Telepacífico
+https://iptv-org.github.io/iptv/channels/Telepacifico.co.m3u8

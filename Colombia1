@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4n7Z7.png", Caracol TV (Señal 1)
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4n7Z7.png", Noticias Caracol Ahora
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGv7R0F.png", RCN Televisión
+https://bit.ly/3yLhOqO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO8uT7G.png", Canal Uno
+https://canal1.stream.mediasector.com/hls/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0N7H0k.png", Señal Colombia
+https://rtvc-live-v6.m9.digital/btv/senal-colombia/playlist.m3u8

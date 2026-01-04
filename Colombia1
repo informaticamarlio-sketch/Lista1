@@ -184,27 +184,58 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-logo="https://i.imgur.com/euy5zp6.png" http-referrer="https://canalzoom.org/senal-en-vivo" group-title="Colombianos",Zoom (1080p)
 #EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-name="Caracol HD" tvg-logo="http://172.19.0.1/static/tv/logos/4913.png" group-title="HD",Caracol HD 
 http://172.19.0.1/4913/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="2" tvg-name="RCN HD" tvg-logo="http://172.19.0.1/static/tv/logos/4949.png" group-title="HD",RCN HD 
 http://172.19.0.1/4949/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="3" tvg-name="Canal 1 HD" tvg-logo="http://172.19.0.1/static/tv/logos/10700.png" group-title="HD",Canal 1 HD 
 http://172.19.0.1/10700/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="5" tvg-name="Señal Colombia HD" tvg-logo="http://172.19.0.1/static/tv/logos/7406.png" group-title="HD",Señal Colombia HD 
 http://172.19.0.1/7406/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="10" tvg-name="Canal Institucional HD" tvg-logo="http://172.19.0.1/static/tv/logos/7408.png" group-title="HD",Canal Institucional HD 
 http://172.19.0.1/7408/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="11" tvg-name="Canal Congreso HD" tvg-logo="http://172.19.0.1/static/tv/logos/7395.png" group-title="HD",Canal Congreso HD 
 http://172.19.0.1/7395/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="20" tvg-name="Caracol HD2" tvg-logo="http://172.19.0.1/static/tv/logos/8775.png" group-title="HD",Caracol HD2 
 http://172.19.0.1/8775/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece 
-
 #EXTINF:-1 tvg-id="21" tvg-name="RCN HD2" tvg-logo="http://172.19.0.1/static/tv/logos/8801.png" group-title="HD",RCN HD2 
 http://172.19.0.1/8801/index.m3u8?token=32c0756f4c827aedc5c33b46a58a4ece
+#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="Peliculas",Bom Cine (1080p)
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@US" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Peliculas",Cine Clásico
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
+#EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Peliculas",Cine Premiere (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineTerror.us@SD" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Peliculas",Cine Terror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:-1 tvg-id="CineTerror.us@LATAM" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Peliculas",Cine Terror LATAM [Geo-blocked]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineXOXO.us@SD" tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Peliculas",Cine XOXO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Peliculas",Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png" group-title="Peliculas",Mega Cine TV (720p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@Spain" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Peliculas",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineFriki.es" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Peliculas",Zylo Cine Friki (1080p)
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="Peliculas",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="Peliculas",BUM Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Peliculas",Cosmos Tv (720p)
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Peliculas",Paramount Network Spain (1080p)
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="PelisyPopcorn.us@SD" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="Peliculas",Pelis y Popcorn
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Peliculas",Runtime Espanol (720p)
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Peliculas",Star Channel Latin America South (1080p)
+http://181.188.216.5:18000/play/a0pm/index.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Peliculas",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
